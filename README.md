@@ -10,6 +10,6 @@ A really simple GUI made with tkinter to let my grandfather choose from a USB re
 - Supported files easy to change
 
 ## Images
-![image](C:\Users\alexa\Desktop\Untitled.png)
+![image info](./pictures/image.png)
 
-![image](C:\Users\alexa\Desktop\Untitle2d.png)
+![image info](./pictures/image2.png)
