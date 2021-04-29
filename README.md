@@ -8,6 +8,7 @@ A really simple GUI made with tkinter to let my grandfather choose from a USB re
 - Select films and USB keys from a list
 - Directly open the selected file on VLC in fullscreen
 - Supported files easy to change
+- Display a red error message if no USB key or video is selected
 
 ## Images
 ![image info](./pictures/image.png)
